@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Buenos Juegos",
+    "description": "",
+    "home_page_url": "https://buenosjuegosla.github.io",
+    "feed_url": "https://buenosjuegosla.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Redacción"
+    },
+    "items": [
+        {
+            "id": "https://buenosjuegosla.github.io/prueba-1/",
+            "url": "https://buenosjuegosla.github.io/prueba-1/",
+            "title": "PlayStation 5 vs. Xbox Series X: Which One Is Gonna Win The Console Wars?",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus aliquam eleifend mi in. Tristique senectus et netus et malesuada. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam ut porttitor leo a diam.",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Metus aliquam eleifend mi in. Tristique senectus et netus et malesuada. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam ut porttitor leo a diam. Consectetur a erat nam at lectus urna duis convallis convallis. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Sagittis nisl rhoncus mattis rhoncus urna neque. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Ut tortor pretium viverra suspendisse.</p>\n<p>Ultrices mi tempus imperdiet nulla malesuada pellentesque. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Posuere urna nec tincidunt praesent semper feugiat nibh. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse interdum consectetur libero id. Viverra accumsan in nisl nisi scelerisque eu. Amet volutpat consequat mauris nunc. Sapien faucibus et molestie ac feugiat sed lectus vestibulum mattis. Quam pellentesque nec nam aliquam sem et tortor. Eu volutpat odio facilisis mauris sit amet massa vitae. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. Auctor urna nunc id cursus metus aliquam eleifend. Vestibulum lectus mauris ultrices eros in cursus turpis. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Interdum consectetur libero id faucibus nisl. Ullamcorper sit amet risus nullam eget felis eget. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna.</p>\n<p>Urna nunc id cursus metus aliquam. Dolor sit amet consectetur adipiscing elit pellentesque. In massa tempor nec feugiat. At urna condimentum mattis pellentesque id nibh tortor id aliquet. Neque egestas congue quisque egestas diam in. Facilisi etiam dignissim diam quis enim lobortis. Nisi scelerisque eu ultrices vitae auctor. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Purus non enim praesent elementum facilisis leo vel fringilla est. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Dui nunc mattis enim ut tellus elementum sagittis. Placerat orci nulla pellentesque dignissim enim sit amet. Massa tincidunt dui ut ornare. Non sodales neque sodales ut. Tellus cras adipiscing enim eu turpis egestas.</p>\n<p>Ut faucibus pulvinar elementum integer. Enim eu turpis egestas pretium aenean pharetra. Vel risus commodo viverra maecenas accumsan lacus. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Euismod quis viverra nibh cras pulvinar mattis nunc. Senectus et netus et malesuada fames. Nullam ac tortor vitae purus faucibus ornare. Ipsum suspendisse ultrices gravida dictum. Nunc sed id semper risus in hendrerit gravida rutrum quisque. Massa massa ultricies mi quis. Tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra.</p>\n<p>Sapien et ligula ullamcorper malesuada proin libero nunc. Pellentesque massa placerat duis ultricies lacus. Pharetra magna ac placerat vestibulum lectus mauris. Nibh mauris cursus mattis molestie. Amet consectetur adipiscing elit pellentesque habitant morbi tristique. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Lacus vel facilisis volutpat est velit. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Adipiscing bibendum est ultricies integer quis auctor elit. Mi eget mauris pharetra et ultrices neque. Sem viverra aliquet eget sit amet tellus cras adipiscing. Sodales neque sodales ut etiam sit amet.</p>",
+            "author": {
+                "name": "Redacción"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T15:51:59-06:00",
+            "date_modified": "2020-08-05T15:51:59-06:00"
+        }
+    ]
+}
